@@ -306,6 +306,10 @@
         </section>
         <!--testimonials-->
 
+        
+
+
+        <!--Interests start-->
         <section id="services" class="section-padding parallax bg-heading" data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row">
@@ -316,81 +320,41 @@
                         </div><!--center heading-->
                     </div>
                 </div><!--center heading-->
-                <div class="row">
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="row">
-                            <div class="col-md-2">
-                                <div class="service-icon">
-                                    <i class="fa fa-image"></i>                                                                      
-                                </div>
-                            </div><!--service-icon col-->
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4>Web Design</h4>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper diam nec augue semper, in dignissim.
-                                    </p>
-                                </div>
-                            </div><!--service-info-col-->
+            <div class="row">
+                    <div class="col-md-3">
+                        <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
+                            <i class="fa fa-image"></i>
+                            <h3>Web Design</h3>
                         </div>
-                    </div><!--service-col-->
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInRight"  data-wow-duration="700ms" data-wow-delay="200ms">
-                        <div class="row">
-                            <div class="col-md-2">
-                                <div class="service-icon">
-                                    <i class="fa fa-crop"></i>                                                                      
-                                </div>
-                            </div><!--service-icon col-->
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4>Psd Design</h4>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper diam nec augue semper, in dignissim.
-                                    </p>
-                                </div>
-                            </div><!--service-info-col-->
+                    </div><!--service col end-->
+                    <div class="col-md-3">
+                        <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
+                            <i class="fa fa-database"></i>
+                            <h3>Database Development</h3>
+                          
                         </div>
-                    </div><!--service-col-->
-                </div><!--services-row-->
-                <div class="divided-50"></div>
-                <div class="row">
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                        <div class="row">
-                            <div class="col-md-2">
-                                <div class="service-icon">
-                                    <i class="fa fa-users"></i>                                                                      
-                                </div>
-                            </div><!--service-icon col-->
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4>Quick response</h4>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper diam nec augue semper, in dignissim.
-                                    </p>
-                                </div>
-                            </div><!--service-info-col-->
+                    </div><!--service col end-->
+                  
+                    <div class="col-md-3">
+                        <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
+                            <i class="fa fa-shopping-cart"></i>
+                            <h3>E-commerce</h3>
+                           
                         </div>
-                    </div><!--service-col-->
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
-                        <div class="row">
-                            <div class="col-md-2">
-                                <div class="service-icon">
-                                    <i class="fa fa-desktop"></i>                                                                      
-                                </div>
-                            </div><!--service-icon col-->
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4>Fully responsive Design</h4>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ullamcorper diam nec augue semper, in dignissim.
-                                    </p>
-                                </div>
-                            </div><!--service-info-col-->
+                    </div><!--service col end-->
+
+
+                   <div class="col-md-3">
+                        <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
+                            <i class="fa fa-lock"></i>
+                            <h3>Security Analyst</h3>
+                           
                         </div>
-                    </div><!--service-col-->
-                </div><!--services-row-->
+                    </div><!--service col end-->
+                </div>
             </div>
-        </section><!--services-->
+        </section>
+        <!--Interests end-->
 
 
         <!--work experience start-->
@@ -407,7 +371,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <p class="lead margin-btm-30">
-                            We believe on our work.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                            Need to fill this up
                         </p>
                     </div>
                 </div>
@@ -445,21 +409,12 @@
                     </div><!--facts col-->
                 </div>
             </div>
-        </section><!--fun facts-->
-        <div class="cta-3">
-            <div class="container text-center">
-                <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Quick a beautiful one page parallax theme</h3>
-                <p class=" wow animated fadeInDown"  data-wow-duration="700ms" data-wow-delay="200ms"><a href="#" class="btn btn-border-white btn-lg">Purchase Now</a></p>
-            </div>
-        </div><!--cta-3-->
-        
+        </section>
+        <!--fun facts-->
 
 
-        <div class="cta-2">
-            <div class="container text-center">
-                <a href="blog.html" class="btn btn-border-white btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms">Read all blog post</a>
-            </div>
-        </div><!--cta 2-->
+
+    
 
         <section id="contact" class="section-padding">
             <div class="container">
@@ -474,7 +429,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <p class="lead">
-                            We are ready to start your project? Give us a call or drop us a line.
+                            Got a concern? Give me a call or drop a line.
                         </p>
                     </div>
                 </div>
@@ -529,104 +484,29 @@
                     </div><!--form col-->
                     <div class="col-md-5">
                         <div class=" margin-btm-30 address-info wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="200ms">
-                            <h3>Our Office</h3>
-                            <p><i class="fa fa-map-marker"></i> Address: 302012 Jaipur Name, City Name</p>
-                            <p><i class="fa fa-phone"></i> Phone: (141) 456-7890</p>
-                            <p><i class="fa fa-envelope"></i> Email: support@quick.com</p>
-                            <p><strong>Monday - Friday : </strong> 9:30 Am - 5:30 Pm</p>
-                            <p><strong>Saturday - Sunday: </strong> Closed</p>
+                            <h3>Contact Information</h3>
+                            <p><i class="fa fa-map-marker"></i> Address: 11 Greek Way, Newark NJ</p>
+                            <p><i class="fa fa-phone"></i> Phone: (973) 999-9999</p>
+                            <p><i class="fa fa-envelope"></i> Email: camilofrnc@aim.com</p>
                         </div>
-                        <div class=" address-info wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="400ms">
-                            <h3>Elsewhere</h3>
-                            <ul class="list-inline social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    
+                    </div>     
                 </div>
             </div>
            
-        </section><!--contact-->
+        </section>
+        <!--contact end-->
      
-
-        <footer id="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4 margin-btm-30">
-                        <div class="footer-col">
-                            <h3 class="widget-title">
-                                About Quick Theme
-                            </h3>
-                            <p>
-                                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text
-                            </p>
-                        </div><!--footer-col-->
-
-                        <div class="footer-col">
-                            <ul class="list-inline social-1">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                            </ul>
-                        </div><!--footer-col-->
-                    </div>
-
-                    <div class="col-sm-4 margin-btm-30">
-                        <div class="footer-col">
-                            <h3 class="widget-title">
-                                Latest Tweets
-                            </h3>
-                        </div>
-                        <div class="tweet"></div>
-
-                    </div>
-
-                    <div class="col-sm-4">
-                        <div class="footer-col">
-                            <h3 class="widget-title">
-                                Subscribe to Newsletter
-                            </h3>
-                            <p>
-                                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.
-                            </p>
-                            <form role="form" class="subscribe-form">
-                                <div class="input-group">
-                                    <input type="email" class="form-control" placeholder="Enter email to subscribe">
-                                    <span class="input-group-btn">
-                                        <a class="btn  btn-theme btn-lg" href="#">Ok</a>
-                                        <!--<button class="btn  btn-theme btn-lg">Ok</button>-->
-                                    </span>
-                                </div>
-                            </form>
-                        </div><!--footer-col-->
-                    </div>
-                </div>
-            </div>
-        </footer><!--footer-->
-
         <div class="footer-btm">
-            <ul class="footer-nav list-inline text-center">
-                <li><a href="#">Terms of use</a></li>
-                <li><a href="#">Privacy and policy</a></li>
-                <li><a href="#">Contact us</a></li>
-                <li><a href="typography.html">Typography</a></li>
-                <li><a href="#">Sign In</a></li>
-            </ul>
-            <div class="copyright text-center">
-                Copyright &copy; 2014. Quick Theme. Powered by <a href="#">bootstrap</a> and <a href="#">Design_mylife</a>
+            <div class="lastFooter text-center">
+          Powered by <a href="http://getbootstrap.com/">bootstrap</a> and Design_mylife
             </div>
-        </div><!--footer-btm-->
+        </div>
+        <!--footer-btm-->
+
         <!--back to top-->
         <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
         <!--back to top end-->
+        
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
         <script src="js/jquery.min.js"></script>        

@@ -336,6 +336,8 @@ h2.slide-btm-text{
     background-attachment: fixed;
 
 }
+
+
 /**services****/
 .services{
     margin-top: 30px;
@@ -377,6 +379,9 @@ h2.slide-btm-text{
 .service-box p{
     font-size: 13px;
 }
+
+
+
 /*team*/
 .team-col{
     text-align: center;
@@ -410,6 +415,9 @@ h2.slide-btm-text{
     top: -5px;
     box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.5);
 }
+
+
+
 /**testimonials**/
 .testimonials{
     background:url(../img/showcase-3.jpg);
@@ -439,46 +447,8 @@ h2.slide-btm-text{
 #testi-carousel p{
     color:#25CBF5;
 }
-/**cta**/
-.cta{
-    padding-top: 50px;
-    padding-bottom: 20px;
-    background-color: #333;
-    color:#fff;
-    text-align: center;
-    margin-bottom: 40px;
-}
-@media(min-width:768px){
-    .cta a{
-        float: right;
-    }
-}
-.cta h3{
-    margin: 0px;
-    font-weight: 400;
-    font-family: 'Lato', sans-serif;
-}
-/**cta-1**/
-.cta-1{
-    padding: 40px 0;
-    background-color: #25CBF5;
-}
-/**cta-2**/
-.cta-2{
-    padding: 40px 0;
-    background-color: #333;
-}
-/**cta-2**/
-.cta-3{
-    padding: 40px 0;
-    background-color:#25CBF5;
-}
-.cta-3 h3{
-    color:#fff;
-    font-size: 40px;
-    margin-bottom: 30px;   
-    font-weight: 300;
-}
+
+
 /***our services****/
 #services{
     background: url('../img/showcase-2.jpg');
@@ -506,55 +476,7 @@ h2.slide-btm-text{
 }
 
 
-/***************portfolio***********/
-/*mix it up filter*/
-#grid .mix{
-    display: none;
-    opacity: 0;
-}
 
-.portfolio-filters{
-    margin-bottom: 30px;
-    list-style: none;
-    padding: 0;
-}
-.portfolio-filters li{
-    display:inline-block;
-    border:1px solid #ddd;
-    padding: 10px 16px;
-    cursor: pointer;
-    font-size: 10px ;
-    text-transform: uppercase;
-    margin-bottom: 5px;
-    font-weight: 400;
-    color:#999;
-    -webkit-transition: 0.7s ease-in-out;
-    -moz-transition: 0.7s ease-in-out;
-    -ms-transition: 0.7s ease-in-out;
-    -o-transition: 0.7s ease-in-out;
-    transition: 0.7s ease-in-out;
-}
-.portfolio-filters li:hover{
-    background-color: #25CBF5;
-    color:#fff;
-    border-color:#25CBF5;
-}
-.portfolio-filters li.active{
-    background-color: #25CBF5;
-    color:#fff;
-    border-color:#25CBF5;
-}
-.work-desc{
-    padding: 15px 0;
-}
-.work-desc h4{
-    margin-bottom: 5px;
-}
-.work-desc em{
-    font-size: 12px;
-    color:#999;
-    font-weight: 400;
-}
 /******owl carousel*******/
 .owl-theme .owl-controls .owl-page span {
     display: block;
@@ -629,56 +551,7 @@ h2.slide-btm-text{
 }
 
 
-/***pricing tables****/
-.plan-wrap{
-    border: 1px solid #333;
-}
-.price-title{
-    padding: 20px 0;
-    background: #444;
-    text-align: center;
-    border-bottom: 1px solid #333;
-}
-.price-title h4{
-    margin: 0;
-}
-.plan-price{
-    padding: 20px 0;  
-    text-align: center;
-    border-bottom: 1px solid #333;
-}
-.plan-price h2 span{
-    font-size: 12px;
-    font-weight: 300;
-    vertical-align: middle;
-    color:#777;
-    margin-right: 5px;
-}
-.plan-price h2{
-    font-size: 45px;
-    color:#fff;
-    margin: 0;
-}
-.plan-features li{
-    display: block;
-    margin: 0;
-    padding: 10px 30px;
-    border-bottom: 1px solid #333;
-    font-size: 16px;
-}
 
-.plan-features li i{
-    margin-right: 15px;
-    color:#999;
-}
-.plan-link{
-    padding: 15px 0;
-    text-align: center;
-}
-.plan-wrap.popular .price-title{
-    background-color: #25CBF5;
-    color:#fff;
-}
 
 /***contact***/
 .address-info h3{
@@ -826,124 +699,10 @@ input[type="color"]:focus,
 .copyright a{
     color:#25CBF5;
 }
-/*************soical icons**********/
-.social-1{
-    margin: 0;
-    padding: 0;
-}
-.social-1 li a i{
-    width:42px;
-    height: 42px;
-    line-height: 42px;
-    text-align: center;
-    color:#fff;
-    font-size: 16px;
-    -webkit-transition: all 200ms ease-in;
-    -o-transition: all 200ms ease-in;
-    -moz-transition: all 200ms ease-in;
-    transition: all 200ms ease-in;
-}
-.social-1 li a i:hover{
-    opacity: 0.8;
-}
-.social-1 li a i.fa-facebook{
-    background-color: #3b5998;
-}
-.social-1 li a i.fa-twitter{
-    background-color: #0084b4;
-}
-.social-1 li a i.fa-google-plus{
-    background-color: #C63D2D;
-}
-.social-1 li a i.fa-pinterest{
-    background-color: #cb2027;
-}
-.social-1 li a i.fa-dribbble{
-    background-color: #ea4c89;
-}
 
 
 
 
-/***************blog****************/
-#blog form .form-control{
-    width:260px;
-}
-.blog-desc h3{
-    margin-top:12px;
-    margin-bottom: 7px;
-    font-weight: 400;
-    font-size: 18px;
-}
-.blog-desc span{
-    color:#777;
-    font-size: 13px;
-    display: block;
-}
-.blog-desc p{
-    margin: 10px 0;
-}
-.blog-intro-text .center-heading h2{
-    font-size: 50px;
-    text-transform: uppercase;
-
-}
-.blog-intro-text h5{
-    color:#fff;
-    font-size: 20px;
-    margin-bottom: 25px;
-    line-height: 35px;
-    font-weight: 400;
-    text-transform: uppercase;
-    display: inline-block;
-    border-bottom: 3px solid rgba(255,255,255,.3);
-}
-.blog-post-info h3{
-    font-weight: 400;
-    margin: 13px 0;
-}
-
-.blog-post-info p{
-    font-size: 13px;
-}
-.blog-post-wrap{
-    border-bottom: 1px solid #333;
-    padding-bottom: 20px;
-    margin-bottom: 30px;
-}
-.post-date{
-    border-bottom: 1px solid #333;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-}
-.post-left-info{
-    text-align: right;
-}
-.post-left-info p{
-    margin: 5px 0;
-    font-size: 12px;
-}
-.post-left-info p i{
-    margin-right: 5px;
-    color:#777;
-
-}
-iframe {
-    border: none;
-    width:100%;
-}
-.pager li>a, .pager li>span{
-    display: inline-block;
-padding: 5px 14px;
-background-color: #333;
-border: 1px solid #444;
-border-radius: 15px;
-}
-.pager li>a:hover, .pager li>a:focus {
-text-decoration: none;
-color:#25CBF5;
-background-color: transparent;
-}
 /*sidebar**/
 .post-sidebar-box{
     margin-bottom: 30px;
@@ -1147,46 +906,7 @@ h3.heading-progress {
     opacity: 1;
     color:#fff;
 }
-/************twitter feed*****************/
-.tweet ul{
-    list-style: none;
-    margin: 0px;
-    padding: 0px;
-}
-.tweet ul li{
-    color:#d5d5d5;
-    font-weight: 500;
-    padding: 8px 0;
-    font-size: 15px;
-    border-bottom: 1px solid #444;
-}
-.tweet ul li:before{
-    content: "\f099";
-    font-family: 'FontAwesome';
-    margin-right: 15px;
-    font-size: 16px;
-    color:#25CBF5;
-}
-.tweet ul li .date{
-    padding: 3px 0;
-    font-size: 11px;
-    font-weight: 400;
-    font-style: italic;
-    text-transform: uppercase;
-    font-family: 'Lato', sans-serif;
-}
-.tweet ul li img{
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    margin-right: 10px;
-}
-.tweet li a{
-    color:#fff;
-    font-size: 12px;
-}
-.tweet li a:hover{
-    color:#25CBF5;
-}
+
 /*******************easy pie chart*****************/
 /*******************************easy pie charts skills***************************/
 
