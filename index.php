@@ -370,8 +370,10 @@
                 </div><!--center heading-->
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="lead margin-btm-30">
-                            Need to fill this up
+                        <p class="lead margin-btm-30">                 
+                            Eleventh Hour Rescue  -- Randolph, NJ </br>
+                            Web Developer, Summers 2011-2013</br>
+                            Volunteered as a Web developer for a newly opened animal shelter.
                         </p>
                     </div>
                 </div>
@@ -381,10 +383,6 @@
             <div class="divided-50"></div>
         </section>
         <!--work experience end-->
-
-
-
-
 
         <section class="fun-facts parallax" data-stellar-background-ratio="0.5">
             <div class="container">
